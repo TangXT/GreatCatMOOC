@@ -1,0 +1,4 @@
+{
+ "locales" : ["en", "zh_CN"],
+ "dummy-locale" : "eo"
+}
